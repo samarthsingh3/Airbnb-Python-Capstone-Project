@@ -110,8 +110,6 @@ The analysis showed that the features with the highest predictive power for Airb
 
 ## Acknowledgements
 
-Special thanks to the Airbnb team for providing the datasets used in this analysis.
+Special thanks to the Airbnb & Hero Vired team for providing the datasets used in this analysis.
 
 ---
-
-Feel free to modify and enhance this README according to your specific needs and additional findings.
